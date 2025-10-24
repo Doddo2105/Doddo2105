@@ -98,9 +98,3 @@ Competências: Delphi | SQL | Mobile | API REST | FireMonkey | Tortoise SVN
 />
 <br/>
 <br/>
-
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doddo2105&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
