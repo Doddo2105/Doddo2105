@@ -8,10 +8,7 @@ Atualmente, atuo na Flexform, onde desenvolvo e mantenho aplicações em Delphi,
 
 Tenho domínio em SQL, com forte atuação na criação de Procedures e Functions, além de otimização de consultas e integração entre sistemas. Também possuo experiência em relatórios dinâmicos com Crystal Reports 9 e versionamento de código utilizando Tortoise SVN.
 
-Minha abordagem é colaborativa e orientada a resultados, sempre buscando contribuir em ambientes ágeis e agregar valor às equipes com soluções eficientes e bem estruturadas.
-
-Sou um profissional curioso, comprometido e apaixonado por tecnologia, sempre acompanhando as tendências em desenvolvimento de software para aplicar as melhores práticas e soluções inovadoras.
-Se você busca um desenvolvedor dedicado e proativo, será um prazer conectar e trocar experiências!
+Minha abordagem é colaborativa e orientada a resultados, sempre buscando contribuir em ambientes ágeis e agregar valor às equipes com soluções eficientes e bem estruturadas
 
 Competências: Delphi | React | React Native | SQL | API REST | Mobile | FireMonkey | Tortoise SVN | Crystal Reports
 ---
