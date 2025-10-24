@@ -2,17 +2,18 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Douglas e sou um Desenvolvedor apaixonado por tecnologia desde cedo. Minha trajetória é marcada pela vontade de transformar ideias em soluções de software eficientes, sempre buscando expandir meus conhecimentos e aprimorar minhas habilidades na área de desenvolvimento.
+Me chamo Douglas e sou um Desenvolvedor apaixonado por tecnologia desde cedo. Sempre tive interesse em entender como as coisas funcionam e transformar ideias em soluções de software que geram impacto real. Essa curiosidade me levou a seguir na área de desenvolvimento, onde estou em constante aprendizado e evolução.
 
-Atualmente, atuo na Flexform, onde desenvolvo e mantenho aplicativos utilizando Delphi. Ao longo da minha formação e experiência profissional, adquiri competências técnicas valiosas, que considero fundamentais para contribuir de forma efetiva em qualquer equipe de desenvolvimento.
+Atualmente, atuo na Flexform, onde desenvolvo e mantenho aplicações em Delphi, além de participar ativamente da melhoria contínua dos sistemas internos. Ao longo da minha trajetória, adquiri experiência sólida em desenvolvimento backend e frontend, trabalhando com tecnologias como Delphi, React e React Native.
 
-Tenho domínio em SQL, com sólida experiência na criação de rotinas (Procedures e Functions) e otimização de queries. Também possuo experiência em relatórios dinâmicos com Crystal Reports 9 e versionamento de código utilizando Tortoise SVN.
-Minha abordagem é colaborativa e orientada a resultados, buscando sempre agregar valor em ambientes ágeis e promover o crescimento conjunto do time.
+Tenho domínio em SQL, com forte atuação na criação de Procedures e Functions, além de otimização de consultas e integração entre sistemas. Também possuo experiência em relatórios dinâmicos com Crystal Reports 9 e versionamento de código utilizando Tortoise SVN.
 
-Sou um profissional curioso e em constante aprendizado, acompanhando as tendências e boas práticas em desenvolvimento de software para entregar soluções modernas e inovadoras.
-Se você procura um desenvolvedor comprometido, dedicado e apaixonado por tecnologia, será um prazer conectar e explorar novas oportunidades!
+Minha abordagem é colaborativa e orientada a resultados, sempre buscando contribuir em ambientes ágeis e agregar valor às equipes com soluções eficientes e bem estruturadas.
 
-Competências: Delphi | SQL | Mobile | API REST | FireMonkey | Tortoise SVN
+Sou um profissional curioso, comprometido e apaixonado por tecnologia, sempre acompanhando as tendências em desenvolvimento de software para aplicar as melhores práticas e soluções inovadoras.
+Se você busca um desenvolvedor dedicado e proativo, será um prazer conectar e trocar experiências!
+
+Competências: Delphi | React | React Native | SQL | API REST | Mobile | FireMonkey | Tortoise SVN | Crystal Reports
 ---
 
 ### 🤖 Linguagens e Tecnologias
